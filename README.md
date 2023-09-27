@@ -6,3 +6,10 @@
   </a>
   <a href="universe.com">
   </a>
+
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinylstage&show_icons=true) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinylstage&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=98sangbin)](https://solved.ac/98sangbin)
