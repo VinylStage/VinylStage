@@ -7,12 +7,5 @@
   </a>
   <a href="universe.com">
   </a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinylstage&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-
-
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=98sangbin)](https://solved.ac/98sangbin)
-
-
-
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinylstage&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=98sangbin)](https://solved.ac/98sangbin)
