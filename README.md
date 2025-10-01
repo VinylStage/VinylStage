@@ -9,3 +9,13 @@
   </a>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinylstage&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=98sangbin)](https://solved.ac/98sangbin)
+
+<br/>
+<br/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=VinylStage&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/VinylStage"
+  width="600"
+  height="300"
+/>
+</a>
