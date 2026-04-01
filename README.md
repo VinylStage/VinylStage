@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there, I'm 임상빈 👋
+# Welcome to My Studio
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Log+Pipeline+Architect;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=it+from+bit;beer+from+bit;drunking+code)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/vinylstage?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/vinylstage)
 [![GitHub User's stars](https://img.shields.io/github/stars/vinylstage?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/vinylstage)
@@ -29,7 +29,7 @@
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Fluentd](https://img.shields.io/badge/Fluentd-0E83C8?style=for-the-badge&logo=fluentd&logoColor=white)
 
-**Backend**
+**Dev Stack**
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -101,6 +101,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinylstage)
+[![Blog](https://img.shields.io/badge/Blog-3b82f6?style=for-the-badge&logo=rss&logoColor=white)](https://vinylims.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mcpe9869@gmail.com)
 [![Link](https://img.shields.io/badge/Link-000000?style=for-the-badge&logo=linktree&logoColor=white)](https://link.vinylims.com)
 
